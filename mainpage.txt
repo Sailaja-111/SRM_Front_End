@@ -1,0 +1,16 @@
+<html>
+<frameset rows="20%,70%,10%">
+   <frameset cols="30%,70%">
+       <frame src="#">
+       <frame src="#">
+   </frameset>
+   <frameset cols="30%,70%" border="0">
+          <frameset rows="20%,80%" border="0">
+             <frame src="https://www.tutorialspoint.com/html/html_frames.htm#:~:text=To%20use%20frames%20on%20a,cols%20attribute%20defines%20vertical%20frames." name="image">
+             <frame src="#" name="profile">
+          </frameset>
+          <frame src="#" name="target">
+   </frameset>
+   <frame src="#" name="footer">
+</frameset>
+</html>
